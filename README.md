@@ -1,2 +1,9 @@
 # RestAssuredAPI
 RestAssuredAPI Automation
+Mvn Repository links-
+-RestAssured - https://mvnrepository.com/artifact/io...
+
+-TestNG - https://mvnrepository.com/artifact/or...
+
+-Json-simple - https://mvnrepository.com/artifact/co...
+
