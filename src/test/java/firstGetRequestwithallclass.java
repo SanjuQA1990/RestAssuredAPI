@@ -15,6 +15,7 @@ public class firstGetRequestwithallclass {
 	@Test
 	void test2() {
 		
+		// This is new change that i did
 		baseURI= "https://reqres.in/api/users";
 		given().queryParams("Page","2").when().get().then().statusCode(200);		
 	}
